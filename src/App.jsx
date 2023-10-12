@@ -90,7 +90,7 @@ const App = () => {
     }
   ]
   
-  const transThings = [
+  const transThings = []
 
 
   return (
